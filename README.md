@@ -1,7 +1,5 @@
 # Impact of Feature Attributions on Different Types of Fake Face Detection
-
-
-### This project explores how interpretability methods impact the performance of deepfake detection across various datasets. The repository includes models and attribution techniques like SHAP, LIME, and Integrated Gradients applied to different deepfake datasets.
+This project explores how interpretability methods impact the performance of deepfake detection across various datasets. The repository includes models and attribution techniques like SHAP, LIME, and Integrated Gradients applied to different deepfake datasets.
 
 ## Folder Structure
 |-- Celeb-DF/: Experiments and data related to the Celeb-DF dataset.
